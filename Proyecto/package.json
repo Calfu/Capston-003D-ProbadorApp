@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-probador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expo": "^54.0.12",
+    "expo-file-system": "~19.0.16",
+    "expo-image-picker": "~17.0.8",
+    "expo-modules-core": "~3.0.20",
+    "expo-status-bar": "~3.0.8",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-native": "^0.82.0",
+    "react-native-web": "^0.21.1"
+  }
+}
